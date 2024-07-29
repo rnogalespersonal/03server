@@ -1,0 +1,8 @@
+URL	        verbo	        funcionalidad
+3.notes	    POST	        crea un nuevo registro: /api/notes
+1.notes	    GET	            obtiene todos los registros: /api/notes
+4.notes/10	PUT	            reemplaza información de un registro determinado: /api/notes/:id
+5.notes/10	DELETE	        elimina un regisro determinado: /api/notes/:id
+
+6.notes/10	PATCH	        reemplaza parte de un registro: api/notes/:id
+2.notes/10	GET	            obtiene un solo recurso: /api/notes/:id
